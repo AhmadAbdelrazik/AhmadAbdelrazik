@@ -44,7 +44,7 @@
 
 #### Familiar User with:
 
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c,cpp,py"/>](https://en.wikipedia.org/wiki/The_C_Programming_Language)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=py"/>](https://www.python.org/)
   
