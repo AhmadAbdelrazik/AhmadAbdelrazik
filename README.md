@@ -46,15 +46,13 @@
 [<img align="left" height="94px" width="94px" alt="Suez Canal University" src="https://scu.eg/storage/2023/03/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3.png"/>](https://suez.edu.eg/ar/en/)
 **Software Engineering Undergraduate** \
 [**Suez Canal University**](https://suez.edu.eg/ar/en/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9/)  • In progress\
-Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
-`Project Management` `Software Development` `Software Security` `Software Quality` `Operating Systems`
-`Data Structure and Algorithms` `Network Fundamentals`
+Skills: `Software Architecture` `Object Oriented Programming` `Software Quality` `Software Security` `Data Structure and Algorithms` `Database Management`
+`Professional Ethics` `Testing and Debugginf`
 
 <br>
 
 ## Contact me:
 <div>
-<a href="https://www.instagram.com/y_m_k.02/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: ahmadabdelrazik159@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/AhmadAbdelrazik/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
