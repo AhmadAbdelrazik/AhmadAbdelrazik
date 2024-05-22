@@ -13,6 +13,8 @@
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadAbdelrazik&theme=radical&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAbdelrazik&layout=compact&theme=radical" />
 </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadAbdelrazik)](https://git.io/streak-stats)
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=AhmadAbdelrazik)
