@@ -47,9 +47,19 @@
 **Software Engineering Undergraduate** \
 [**Suez Canal University**](https://suez.edu.eg/ar/en/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9/)  • In progress\
 Skills: `Software Architecture` `Object Oriented Programming` `Software Quality` `Software Security` `Data Structure and Algorithms` `Database Management`
-`Professional Ethics` `Testing and Debugginf`
+`Professional Ethics` `Testing and Debugging`
 
 <br>
+
+## Student Activity:
+
+[<img align="left" height="94px" width="94px" alt="ICPC SCU" src="https://icpc-scu-official-website.me/static/media/second-logo.0e8539aadfee7a882214.png"/>](https://icpc-scu-official-website.me/)
+**Member of ICPC SCU team** \
+[**ICPC SCU**](https://icpc-scu-official-website.me/)  • In progress\
+Skills:  `Problem Solving` `Competitive Programming` `Data Structures and Algorithms` `C/C++`
+
+<br>
+
 
 ## Contact me:
 <div>
