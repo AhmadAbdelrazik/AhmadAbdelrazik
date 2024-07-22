@@ -26,16 +26,16 @@
 
 
 #### Main Stack:
-  [<img height="48px" width="48px" alt="Icone go" src="https://skillicons.dev/icons?i=go,mysql"/>]  
+  [<img alt="Icone go" src="https://skillicons.dev/icons?i=go,mysql"/>]  
 
 #### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone go" src="https://skillicons.dev/icons?i=go,postgres,redis"/>]  
+  [<img alt="Icone go" src="https://skillicons.dev/icons?i=go,postgres,redis"/>]  
 
 #### Tools:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode,neovim,vim,git,github,linux,postman"/>]
+  [<img alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode,neovim,vim,git,github,linux,postman"/>]
 
 #### Familiar User with:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c,cpp,py,js,express,nodejs"/>]
+  [<img alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c,cpp,py,js,express,nodejs"/>]
   
 
 <br>
