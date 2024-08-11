@@ -30,7 +30,7 @@
 
 
 #### Main Stack:
-  [<img alt="Icone go" src="https://skillicons.dev/icons?i=go,mysql"/>]  
+  [<img alt="Icone go" src="https://skillicons.dev/icons?i=go,mysql,linux"/>]  
 
 #### Studying in this moment:
   [<img alt="Icone go" src="https://skillicons.dev/icons?i=go,postgres,redis"/>]  
