@@ -36,7 +36,7 @@
   [<img alt="Icone go" src="https://skillicons.dev/icons?i=go,postgres,redis"/>]  
 
 #### Tools:
-  [<img alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode,neovim,vim,git,github,linux,postman"/>]
+  [<img alt="Icone VS-Code" src="https://skillicons.dev/icons?i=neovim,vim,git,github,linux,postman"/>]
 
 #### Familiar User with:
   [<img alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c,cpp,py,js,express,nodejs"/>]
