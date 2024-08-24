@@ -10,14 +10,9 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadAbdelrazik&theme=radical&show_icons=true" />
+ <img width=45% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AhmadAbdelrazik&theme=radical&date_format=j%20M%5B%20Y%5D" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAbdelrazik&layout=compact&theme=radical" />
 </div>
-<br>
-<div align="center"> 
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AhmadAbdelrazik&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</div>
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=AhmadAbdelrazik)
