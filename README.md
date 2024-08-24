@@ -51,7 +51,7 @@ Skills: `Software Architecture` `Object Oriented Programming` `Software Quality`
 
 ## Student Activity:
 
-[<img align="left" height="94px" width="94px" alt="ICPC SCU" src="https://icpc-scu-official-website.me/static/media/second-logo.0e8539aadfee7a882214.png"/>](https://icpc-scu-official-website.me/)
+[<img align="left" height="94px" width="94px" alt="ICPC SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfN88iAULbWFhi8uPBXoKby_VFw4bkYQq1A&s"/>](https://icpc-scu-official-website.me/)
 **Member of ICPC SCU team** \
 [**ICPC SCU**](https://icpc-scu-official-website.me/)  • In progress\
 Skills:  `Problem Solving` `Competitive Programming` `Data Structures and Algorithms` `C/C++`
