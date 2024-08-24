@@ -58,7 +58,7 @@ Skills:  `Problem Solving` `Competitive Programming` `Data Structures and Algori
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="SCU_Racing_Team" src="https://www.facebook.com/photo/?fbid=408649437948533&set=a.408649441281866"/>](https://www.facebook.com/SCURacingTeam)
+[<img align="left" height="94px" width="94px" alt="SCU_Racing_Team" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9jX3otAr_eK2Zm0RxTuprp7qw5otN30Xs9w&s"/>](https://www.facebook.com/SCURacingTeam)
 **Dashboard Member of SCU Racing Team** \
 [**SCU Racing Team**](https://www.facebook.com/SCURacingTeam)  • In progress\
 Skills:  `Problem Solving` `Arduino C` `Embedded Systems`
