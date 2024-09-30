@@ -28,7 +28,7 @@
   [<img alt="Icone go" src="https://skillicons.dev/icons?i=go,mysql,postgres,linux"/>]  
 
 #### Studying in this moment:
-  [<img alt="Icone go" src="https://skillicons.dev/icons?i=go,mongodb,rabbitmq,redis"/>]  
+  [<img alt="Icone go" src="https://skillicons.dev/icons?i=go,mongodb,rabbitmq,docker,redis"/>]  
 
 #### Tools:
   [<img alt="Icone VS-Code" src="https://skillicons.dev/icons?i=neovim,vim,git,github,linux,postman"/>]
