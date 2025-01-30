@@ -50,16 +50,18 @@ Skills: `Software Architecture` `Object Oriented Programming` `Software Quality`
 <br>
 
 ## Student Activity:
-[<img align="left" height="94px" width="94px" alt="Microsoft Student Club SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfN88iAULbWFhi8uPBXoKby_VFw4bkYQq1A&s"/>](https://m.facebook.com/MicrosoftSCU/)
+[<img align="left" height="94px" width="94px" alt="Microsoft Student Club SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4pPQ23qPDGlrq0jMISlIAAP2dVfDWtEFa0g&s"/>](https://m.facebook.com/MicrosoftSCU/)
 **Head of Backend at Microsoft Student Club SCU** \
 [**Microsoft Student Club SCU**](https://m.facebook.com/MicrosoftSCU/)  • In progress\
-Skills:  `API Development` `Databases` `Authentication and Authorization` `Golang`
+Skills:  `API Development` `Databases` `Authentication and Authorization` `WebSockets` `gRPC`
+
 <br>
 
-[<img align="left" height="94px" width="94px" alt="ICPC SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfN88iAULbWFhi8uPBXoKby_VFw4bkYQq1A&s"/>](https://www.facebook.com/@IEEESCU/)
+[<img align="left" height="94px" width="94px" alt="ICPC SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNjDMEiyGP2ZlGpTp_NldZm0vvugM7PMax1w&s"/>](https://www.facebook.com/@IEEESCU/)
 **Technical Member of IEEE SCU Backend team** \
 [**IEEE SCU**](https://www.facebook.com/@IEEESCU/)  • In progress\
-Skills:  `Problem Solving` `Competitive Programming` `Data Structures and Algorithms` `C/C++`
+Skills:  `API Development` `Databases` `Authentication and Authorization` `WebSockets` `gRPC`
+
 <br>
 
 [<img align="left" height="94px" width="94px" alt="ICPC SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfN88iAULbWFhi8uPBXoKby_VFw4bkYQq1A&s"/>](https://icpc-scu-official-website.me/)
