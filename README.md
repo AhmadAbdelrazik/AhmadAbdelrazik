@@ -50,10 +50,21 @@ Skills: `Software Architecture` `Object Oriented Programming` `Software Quality`
 <br>
 
 ## Student Activity:
+[<img align="left" height="94px" width="94px" alt="Microsoft Student Club SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfN88iAULbWFhi8uPBXoKby_VFw4bkYQq1A&s"/>](https://m.facebook.com/MicrosoftSCU/)
+**Head of Backend at Microsoft Student Club SCU** \
+[**Microsoft Student Club SCU**](https://m.facebook.com/MicrosoftSCU/)  • In progress\
+Skills:  `API Development` `Databases` `Authentication and Authorization` `Golang`
+<br>
+
+[<img align="left" height="94px" width="94px" alt="ICPC SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfN88iAULbWFhi8uPBXoKby_VFw4bkYQq1A&s"/>](https://www.facebook.com/@IEEESCU/)
+**Technical Member of IEEE SCU Backend team** \
+[**IEEE SCU**](https://www.facebook.com/@IEEESCU/)  • In progress\
+Skills:  `Problem Solving` `Competitive Programming` `Data Structures and Algorithms` `C/C++`
+<br>
 
 [<img align="left" height="94px" width="94px" alt="ICPC SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfN88iAULbWFhi8uPBXoKby_VFw4bkYQq1A&s"/>](https://icpc-scu-official-website.me/)
 **Member of ICPC SCU team** \
-[**ICPC SCU**](https://icpc-scu-official-website.me/)  • In progress\
+[**ICPC SCU**](https://icpc-scu-official-website.me/)  • 2022 - 2024\
 Skills:  `Problem Solving` `Competitive Programming` `Data Structures and Algorithms` `C/C++`
 
 <br>
