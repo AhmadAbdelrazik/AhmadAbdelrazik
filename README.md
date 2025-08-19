@@ -25,10 +25,7 @@
 
 
 #### Main Stack:
-  [<img alt="Icone go" src="https://skillicons.dev/icons?i=go,mysql,postgres,linux"/>]  
-
-#### Studying in this moment:
-  [<img alt="Icone go" src="https://skillicons.dev/icons?i=go,mongodb,rabbitmq,docker,redis"/>]  
+  [<img alt="Icone go" src="https://skillicons.dev/icons?i=dotnet,cs,go,mysql,postgres"/>]  
 
 #### Tools:
   [<img alt="Icone VS-Code" src="https://skillicons.dev/icons?i=neovim,vim,git,github,linux,ubuntu,postman"/>]
@@ -82,3 +79,4 @@ Skills:  `Problem Solving` `Arduino C` `Embedded Systems`
 <a href = "mailto: ahmadabdelrazik159@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/AhmadAbdelrazik/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
