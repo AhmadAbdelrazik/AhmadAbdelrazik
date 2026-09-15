@@ -39,7 +39,7 @@
 
 ## Professional Experience
 
-[<img align="left" height="94px" width="94px" alt="Yamm" src="https://media.linkedin.com/dms/image/v2/D4D0BAQEyOWziiVouUg/company-logo_200_200/company-logo_200_200/0/1693504245996/yammpay_logo?e=1790812800&v=beta&t=st-1ZIo3gyHgVEb_qTQHN5U1BUxEw0m0PY5FBDdFcPc"/>]
+[<img align="left" height="94px" width="94px" alt="Yamm" src="images/yamm.jpeg"/>]
 **Junior Software Engineer — Yamm** \
 `Go` `PostgreSQL` `Redis` `Docker` `REST APIs` `RBAC` `Subscriptions` `Payment Integrations` `Background Jobs` \
 Full-time · Remote · Mar 2026 – Present\
@@ -47,7 +47,7 @@ Multi-tenant e-commerce backend: refund workflows, localization, shipping/paymen
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="NASS Academy" src="https://media.linkedin.com/dms/image/v2/D4D0BAQFql0_VHnA7NQ/company-logo_200_200/company-logo_200_200/0/1683994284040?e=1790812800&v=beta&t=gbVZp9SbHJrRuDOMWMzDRZ8AghugKbzBIZ3VRfL5JWQ"/>]
+[<img align="left" height="94px" width="94px" alt="NASS Academy" src="images/nass.jpeg"/>]
 **Programming Teacher — WE School of Technology** \
 `PHP` `Laravel` `React` \
 Full-time · Sep 2025 – Feb 2026\
