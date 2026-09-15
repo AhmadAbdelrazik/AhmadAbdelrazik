@@ -23,26 +23,31 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
 #### Main Stack:
-  [<img alt="Stack" src="https://skillicons.dev/icons?i=go,postgres,redis,docker,git,github,linux"/>]  
+
+[<img alt="Stack" src="https://skillicons.dev/icons?i=go,postgres,redis,docker,git,github,linux"/>]
 
 #### Tools & Workflow:
-  [<img alt="Tools" src="https://skillicons.dev/icons?i=neovim,vim,postman,swagger,ubuntu"/>]
+
+[<img alt="Tools" src="https://skillicons.dev/icons?i=neovim,vim,postman,arch,"/>]
 
 #### Familiar with:
-  [<img alt="Familiar" src="https://skillicons.dev/icons?i=c,cpp,py,js,nodejs,mysql"/>]
-  
+
+[<img alt="Familiar" src="https://skillicons.dev/icons?i=c,cpp,php,py,js,nodejs,mysql"/>]
 
 <br>
 
 ## Professional Experience
 
+[<img align="left" height="94px" width="94px" alt="Yamm" src="https://media.linkedin.com/dms/image/v2/D4D0BAQEyOWziiVouUg/company-logo_200_200/company-logo_200_200/0/1693504245996/yammpay_logo?e=1790812800&v=beta&t=st-1ZIo3gyHgVEb_qTQHN5U1BUxEw0m0PY5FBDdFcPc"/>]
 **Junior Software Engineer — Yamm** \
 `Go` `PostgreSQL` `Redis` `Docker` `REST APIs` `RBAC` `Subscriptions` `Payment Integrations` `Background Jobs` \
 Full-time · Remote · Mar 2026 – Present\
 Multi-tenant e-commerce backend: refund workflows, localization, shipping/payment integrations, subscription management, structured logging.
 
+<br>
+
+[<img align="left" height="94px" width="94px" alt="NASS Academy" src="https://media.linkedin.com/dms/image/v2/D4D0BAQFql0_VHnA7NQ/company-logo_200_200/company-logo_200_200/0/1683994284040?e=1790812800&v=beta&t=gbVZp9SbHJrRuDOMWMzDRZ8AghugKbzBIZ3VRfL5JWQ"/>]
 **Programming Teacher — WE School of Technology** \
 `PHP` `Laravel` `React` \
 Full-time · Sep 2025 – Feb 2026\
@@ -54,7 +59,7 @@ Full-stack programming instructor covering web development and fundamentals.
 
 [<img align="left" height="94px" width="94px" alt="Suez Canal University" src="https://scu.eg/storage/2023/03/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3.png"/>](https://suez.edu.eg/ar/en/)
 **Computer and Control Engineering — B.Sc.** \
-[**Suez Canal University**](https://suez.edu.eg/ar/en/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9/)  • Graduated with Excellent with Honor · CGPA 3.73/4.0 · Rank 2nd\
+[**Suez Canal University**](https://suez.edu.eg/ar/en/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9/) • Graduated with Excellent with Honor · CGPA 3.73/4.0 · Rank 2nd\
 Skills: `Go` `PostgreSQL` `REST APIs` `Docker` `Redis` `Authentication & Authorization` `RBAC` `System Design`
 
 <br>
@@ -67,36 +72,38 @@ Award-winning cloud backend for post-accident vehicle assistance: `Go` `HTTP/MQT
 <br>
 
 ## Student Activity:
+
 [<img align="left" height="94px" width="94px" alt="Microsoft Student Club SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4pPQ23qPDGlrq0jMISlIAAP2dVfDWtEFa0g&s"/>](https://m.facebook.com/MicrosoftSCU/)
 **Head of Backend at Microsoft Student Club SCU** \
-[**Microsoft Student Club SCU**](https://m.facebook.com/MicrosoftSCU/)  • In progress\
-Skills:  `API Development` `Databases` `Authentication and Authorization` `WebSockets` `gRPC`
+[**Microsoft Student Club SCU**](https://m.facebook.com/MicrosoftSCU/) • In progress\
+Skills: `API Development` `Databases` `Authentication and Authorization` `WebSockets` `gRPC`
 
 <br>
 
 [<img align="left" height="94px" width="94px" alt="ICPC SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNjDMEiyGP2ZlGpTp_NldZm0vvugM7PMax1w&s"/>](https://www.facebook.com/@IEEESCU/)
 **Technical Member of IEEE SCU Backend team** \
-[**IEEE SCU**](https://www.facebook.com/@IEEESCU/)  • In progress\
-Skills:  `API Development` `Databases` `Authentication and Authorization` `WebSockets` `gRPC`
+[**IEEE SCU**](https://www.facebook.com/@IEEESCU/) • In progress\
+Skills: `API Development` `Databases` `Authentication and Authorization` `WebSockets` `gRPC`
 
 <br>
 
 [<img align="left" height="94px" width="94px" alt="ICPC SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrfN88iAULbWFhi8uPBXoKby_VFw4bkYQq1A&s"/>](https://icpc-scu-official-website.me/)
 **Member of ICPC SCU team** \
-[**ICPC SCU**](https://icpc-scu-official-website.me/)  • 2022 - 2024\
-Skills:  `Problem Solving` `Competitive Programming` `Data Structures and Algorithms` `C/C++`
+[**ICPC SCU**](https://icpc-scu-official-website.me/) • 2022 - 2024\
+Skills: `Problem Solving` `Competitive Programming` `Data Structures and Algorithms` `C/C++`
 
 <br>
 
 [<img align="left" height="94px" width="94px" alt="SCU_Racing_Team" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9jX3otAr_eK2Zm0RxTuprp7qw5otN30Xs9w&s"/>](https://www.facebook.com/SCURacingTeam)
 **Dashboard Member of SCU Racing Team** \
-[**SCU Racing Team**](https://www.facebook.com/SCURacingTeam)  • In progress\
-Skills:  `Problem Solving` `Arduino C` `Embedded Systems`
+[**SCU Racing Team**](https://www.facebook.com/SCURacingTeam) • In progress\
+Skills: `Problem Solving` `Arduino C` `Embedded Systems`
 <br>
 
 ## Contact me:
+
 <div>
 <a href = "mailto: ahmadabdelrazik159@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/AhmadAbdelrazik/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://x.com/AbdelrazikSWE" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>   
 </div>
-
