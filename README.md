@@ -25,24 +25,44 @@
 
 
 #### Main Stack:
-  [<img alt="Icone go" src="https://skillicons.dev/icons?i=dotnet,cs,go,mysql,postgres"/>]  
+  [<img alt="Stack" src="https://skillicons.dev/icons?i=go,postgres,redis,docker,git,github,linux"/>]  
 
-#### Tools:
-  [<img alt="Icone VS-Code" src="https://skillicons.dev/icons?i=neovim,vim,git,github,linux,ubuntu,postman"/>]
+#### Tools & Workflow:
+  [<img alt="Tools" src="https://skillicons.dev/icons?i=neovim,vim,postman,swagger,ubuntu"/>]
 
-#### Familiar User with:
-  [<img alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c,cpp,py,js,express,nodejs"/>]
+#### Familiar with:
+  [<img alt="Familiar" src="https://skillicons.dev/icons?i=c,cpp,py,js,nodejs,mysql"/>]
   
+
+<br>
+
+## Professional Experience
+
+**Junior Software Engineer — Yamm** \
+`Go` `PostgreSQL` `Redis` `Docker` `REST APIs` `RBAC` `Subscriptions` `Payment Integrations` `Background Jobs` \
+Full-time · Remote · Mar 2026 – Present\
+Multi-tenant e-commerce backend: refund workflows, localization, shipping/payment integrations, subscription management, structured logging.
+
+**Programming Teacher — WE School of Technology** \
+`PHP` `Laravel` `React` \
+Full-time · Sep 2025 – Feb 2026\
+Full-stack programming instructor covering web development and fundamentals.
 
 <br>
 
 ## Academic Background:
 
 [<img align="left" height="94px" width="94px" alt="Suez Canal University" src="https://scu.eg/storage/2023/03/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3.png"/>](https://suez.edu.eg/ar/en/)
-**Software Engineering Undergraduate** \
-[**Suez Canal University**](https://suez.edu.eg/ar/en/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9/)  • In progress\
-Skills: `Software Architecture` `Object Oriented Programming` `Software Quality` `Software Security` `Data Structure and Algorithms` `Database Management`
-`Professional Ethics` `Testing and Debugging`
+**Computer and Control Engineering — B.Sc.** \
+[**Suez Canal University**](https://suez.edu.eg/ar/en/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9/)  • Graduated with Excellent with Honor · CGPA 3.73/4.0 · Rank 2nd\
+Skills: `Go` `PostgreSQL` `REST APIs` `Docker` `Redis` `Authentication & Authorization` `RBAC` `System Design`
+
+<br>
+
+**Graduation Project — Post Accident System (PAS)** \
+Award-winning cloud backend for post-accident vehicle assistance: `Go` `HTTP/MQTT API` `PostgreSQL` `JWT` `MQTT` \
+🥇 1st Place — 7th Annual Research Conference, Suez Canal University \
+🥇 1st Place — Microsoft Student Club SCU · AI Startups Competition
 
 <br>
 
