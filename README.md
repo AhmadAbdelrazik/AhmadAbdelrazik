@@ -75,14 +75,14 @@ Award-winning cloud backend for post-accident vehicle assistance: `Go` `HTTP/MQT
 
 [<img align="left" height="94px" width="94px" alt="Microsoft Student Club SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4pPQ23qPDGlrq0jMISlIAAP2dVfDWtEFa0g&s"/>](https://m.facebook.com/MicrosoftSCU/)
 **Head of Backend at Microsoft Student Club SCU** \
-[**Microsoft Student Club SCU**](https://m.facebook.com/MicrosoftSCU/) • In progress\
+[**Microsoft Student Club SCU**](https://m.facebook.com/MicrosoftSCU/) • 2024 - 2025\
 Skills: `API Development` `Databases` `Authentication and Authorization` `WebSockets` `gRPC`
 
 <br>
 
 [<img align="left" height="94px" width="94px" alt="ICPC SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNjDMEiyGP2ZlGpTp_NldZm0vvugM7PMax1w&s"/>](https://www.facebook.com/@IEEESCU/)
 **Technical Member of IEEE SCU Backend team** \
-[**IEEE SCU**](https://www.facebook.com/@IEEESCU/) • In progress\
+[**IEEE SCU**](https://www.facebook.com/@IEEESCU/) • 2024 - 2025\
 Skills: `API Development` `Databases` `Authentication and Authorization` `WebSockets` `gRPC`
 
 <br>
@@ -96,7 +96,7 @@ Skills: `Problem Solving` `Competitive Programming` `Data Structures and Algorit
 
 [<img align="left" height="94px" width="94px" alt="SCU_Racing_Team" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9jX3otAr_eK2Zm0RxTuprp7qw5otN30Xs9w&s"/>](https://www.facebook.com/SCURacingTeam)
 **Dashboard Member of SCU Racing Team** \
-[**SCU Racing Team**](https://www.facebook.com/SCURacingTeam) • In progress\
+[**SCU Racing Team**](https://www.facebook.com/SCURacingTeam) • 2024 - 2025\
 Skills: `Problem Solving` `Arduino C` `Embedded Systems`
 <br>
 
